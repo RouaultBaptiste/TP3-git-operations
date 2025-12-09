@@ -1,1 +1,1 @@
-ligne=master
+ligne=resolu
