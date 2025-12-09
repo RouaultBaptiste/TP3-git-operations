@@ -24,5 +24,3 @@ This is a trivial Java EE 7 sample.
 
 
 Ajout d'une note pour le TP03.
-
-Autre ligne à désindexer.
