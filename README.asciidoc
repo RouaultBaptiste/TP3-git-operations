@@ -26,3 +26,5 @@ This is a trivial Java EE 7 sample.
 Ajout d'une note pour le TP03.
 
 TP04: ajout en feature (fast-forward).
+
+TP05: démo publication branche.
