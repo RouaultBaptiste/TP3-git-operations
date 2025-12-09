@@ -1,6 +1,6 @@
 
 TP05: modification locale du README.
 
-TP05: hotfix - commit 1.
+TP05: develop - commit 1.
 
-TP05: hotfix - commit 2.
+TP05: develop - commit 2.
